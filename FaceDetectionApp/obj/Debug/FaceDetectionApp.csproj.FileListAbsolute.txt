@@ -1,0 +1,12 @@
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\bin\Debug\FaceDetectionApp.exe
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\bin\Debug\FaceDetectionApp.pdb
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\bin\Debug\Emgu.CV.World.dll
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\bin\Debug\Emgu.CV.World.xml
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csprojAssemblyReference.cache
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.FaceDetectionForm.resources
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.Properties.Resources.resources
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csproj.GenerateResource.cache
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csproj.CoreCompileInputs.cache
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.csproj.CopyComplete
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.exe
+c:\users\kok leong\source\repos\FaceDetectionApp\FaceDetectionApp\obj\Debug\FaceDetectionApp.pdb
